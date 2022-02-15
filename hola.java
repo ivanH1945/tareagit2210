@@ -1,4 +1,5 @@
-public class 
+public class hola()
 {
 	int edad = 18;
 }
+ 
